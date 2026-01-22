@@ -755,8 +755,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Yeshankroy
+- LinkedIn: https://www.linkedin.com/in/yeshank-roy-0406691bb
 
 ---
 
@@ -764,6 +764,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Spring Boot Team
 - React Team
+- Docker Community
 - Kubernetes Community
 - PostgreSQL Team
 
@@ -771,7 +772,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email yeshankroy@gmail.com or open an issue in the repository.
 
 ---
 
